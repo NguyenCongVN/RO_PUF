@@ -38,7 +38,6 @@ module uart_controller(
 	/////////////////////////////
 	input [255:0] second,
     input second_en  
-	
     );
     
     // FSM State variables
